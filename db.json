@@ -55,6 +55,15 @@
       "quantidade": 2,
       "preco": 5.9,
       "valor": 11.8
+    },
+    {
+      "id": 3,
+      "pedido": 3,
+      "data": "09/11/2024",
+      "produto": "Baguete de Azeitona",
+      "quantidade": 1,
+      "preco": 6.5,
+      "valor": 6.5
     }
   ],
   "historico": []
