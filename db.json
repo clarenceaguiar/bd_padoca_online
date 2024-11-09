@@ -55,7 +55,9 @@
       "quantidade": 2,
       "preco": 5.9,
       "valor": 11.8
-    },
+    }    
+  ],
+  "historico": [
     {
       "id": 3,
       "pedido": 3,
@@ -65,6 +67,5 @@
       "preco": 6.5,
       "valor": 6.5
     }
-  ],
-  "historico": []
+  ]
 }
